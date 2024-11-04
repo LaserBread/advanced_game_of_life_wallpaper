@@ -9,7 +9,11 @@
       <entry name="color" type="String">
             <label>Color</label>
             <default>#00ff00</default>
-        </entry>
+      </entry>
+      <entry name="bgImage" type="String">
+            <label>Background Image</label>
+            <default>oof</default>
+      </entry>
   </group>
 
 </kcfg>
